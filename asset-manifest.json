@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-share-social/static/css/main.ee0ceb1c.chunk.css",
-    "main.js": "/react-share-social/static/js/main.90c537a1.chunk.js",
-    "main.js.map": "/react-share-social/static/js/main.90c537a1.chunk.js.map",
-    "runtime-main.js": "/react-share-social/static/js/runtime-main.e53d0099.js",
-    "runtime-main.js.map": "/react-share-social/static/js/runtime-main.e53d0099.js.map",
-    "static/js/2.30570978.chunk.js": "/react-share-social/static/js/2.30570978.chunk.js",
-    "static/js/2.30570978.chunk.js.map": "/react-share-social/static/js/2.30570978.chunk.js.map",
-    "static/js/3.b27afc9f.chunk.js": "/react-share-social/static/js/3.b27afc9f.chunk.js",
-    "static/js/3.b27afc9f.chunk.js.map": "/react-share-social/static/js/3.b27afc9f.chunk.js.map",
+    "main.css": "/react-share-social/static/css/main.aaa42f0a.chunk.css",
+    "main.js": "/react-share-social/static/js/main.b677bf7b.chunk.js",
+    "main.js.map": "/react-share-social/static/js/main.b677bf7b.chunk.js.map",
+    "runtime-main.js": "/react-share-social/static/js/runtime-main.e24b0da6.js",
+    "runtime-main.js.map": "/react-share-social/static/js/runtime-main.e24b0da6.js.map",
+    "static/js/2.24a98dad.chunk.js": "/react-share-social/static/js/2.24a98dad.chunk.js",
+    "static/js/2.24a98dad.chunk.js.map": "/react-share-social/static/js/2.24a98dad.chunk.js.map",
+    "static/js/3.dc562b56.chunk.js": "/react-share-social/static/js/3.dc562b56.chunk.js",
+    "static/js/3.dc562b56.chunk.js.map": "/react-share-social/static/js/3.dc562b56.chunk.js.map",
     "index.html": "/react-share-social/index.html",
-    "static/css/main.ee0ceb1c.chunk.css.map": "/react-share-social/static/css/main.ee0ceb1c.chunk.css.map",
-    "static/js/2.30570978.chunk.js.LICENSE.txt": "/react-share-social/static/js/2.30570978.chunk.js.LICENSE.txt",
+    "static/css/main.aaa42f0a.chunk.css.map": "/react-share-social/static/css/main.aaa42f0a.chunk.css.map",
+    "static/js/2.24a98dad.chunk.js.LICENSE.txt": "/react-share-social/static/js/2.24a98dad.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-share-social/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e53d0099.js",
-    "static/js/2.30570978.chunk.js",
-    "static/css/main.ee0ceb1c.chunk.css",
-    "static/js/main.90c537a1.chunk.js"
+    "static/js/runtime-main.e24b0da6.js",
+    "static/js/2.24a98dad.chunk.js",
+    "static/css/main.aaa42f0a.chunk.css",
+    "static/js/main.b677bf7b.chunk.js"
   ]
 }
